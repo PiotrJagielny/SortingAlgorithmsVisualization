@@ -1,0 +1,2 @@
+D:\VisualStudio\KartoTrawa\x64\Debug\KartoTrawa.exe
+D:\VisualStudio\SFML\KartoTrawa\x64\Debug\KartoTrawa.exe
