@@ -22,6 +22,8 @@ public:
 		short numberOfPillars);
 	virtual ~VisualizationState();
 
+	static sf::Text timerText;
+	static sf::Clock timer;
 
 	void endState() override;
 

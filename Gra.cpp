@@ -6,10 +6,9 @@ bool Gra::m_singleClickEscapeDetection = false;
 
 void Gra::InitWindow()
 {
-	m_okno = new sf::RenderWindow{ sf::VideoMode{1400,950} , "Sorting Algorithms Visualization" ,
-		sf::Style::Close | sf::Style::Titlebar};
-
-
+	m_okno = new sf::RenderWindow{ 
+		sf::VideoMode{static_cast<unsigned>(Variables::windowWidth),static_cast<unsigned>(Variables::windowHeight)} ,
+		"Sorting Algorithms Visualization" ,sf::Style::Close | sf::Style::Titlebar};
 }
 
 void Gra::InitStates()
@@ -23,7 +22,6 @@ Gra::Gra()
 	this->InitStates();
 
 	m_frameTimer.restart();
-	//m_singleClickEscapeDetection = false;
 }
 
 Gra::~Gra()

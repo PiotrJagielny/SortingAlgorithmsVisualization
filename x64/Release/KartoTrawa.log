@@ -1,0 +1,84 @@
+﻿  FunctionsAndVariables.cpp
+  Gra.cpp
+  HeaderFiles.cpp
+  main.cpp
+  MainMenuState.cpp
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(11,47): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(17,42): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(24,45): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(30,42): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(36,45): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(42,41): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(48,41): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(54,49): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(60,47): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(66,37): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(214,70): warning C4244: "=": konwersja z "T" do "short", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(229,102): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(229,69): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(322,66): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(322,33): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(327,66): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\MainMenuState.cpp(327,33): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  State.cpp
+  VisualizationState.cpp
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\VisualizationState.cpp(38,84): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\VisualizationState.cpp(92,94): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\VisualizationState.cpp(98,89): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 465 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  KartoTrawa.vcxproj -> D:\Program Files (x86)\GitHub\SortingAlgorithmsVisualization\x64\Release\KartoTrawa.exe

@@ -11,8 +11,13 @@ private:
 
 	sf::RectangleShape m_SelectionSortButton;
 
-
 	sf::RectangleShape m_BubbleSortButton;
+
+	sf::RectangleShape m_InsertionSortButton;
+
+	sf::RectangleShape m_QuickSortButton;
+
+	sf::RectangleShape m_MergeSortButton;
 
 
 	bool m_goToVisualization;
@@ -30,7 +35,7 @@ private:
 	short m_delayMax;
 	
 
-	void initText();
+	void initText(sf::RenderWindow* window);
 	void initButtons();
 	void initSliders();
 	void initVariables();
